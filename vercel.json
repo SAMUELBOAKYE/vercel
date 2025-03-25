@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "src": "/test", "dest": "/" },
+    { "src": "/blog/(.*)", "dest": "/blog?slug=$1" }
+  ]
+}
