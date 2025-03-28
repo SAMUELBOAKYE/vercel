@@ -203,7 +203,7 @@ body {
 .red-text::after {
   content: "";
   display: inline-block;
-  background-image: url("record.png");
+  background-image: url("./images/record.png");
   background-size: cover;
   width: 70px; /* Smaller size */
   height: 70px;
